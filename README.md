@@ -7,6 +7,7 @@ A = np.array([
         [-1, 2, 2, 2],
         [1, -1, 2, 1]    
     ], dtype=np.dtype(float)) 
+    
 b = np.array([6,3,14,8], dtype=np.dtype(float))
 
 
